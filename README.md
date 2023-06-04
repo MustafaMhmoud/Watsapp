@@ -1,3 +1,3 @@
-# Watsapp
+# WhatsApp
 
-Link The Website [ https://mustafamhmoud.github.io/Watsapp/ ]
+Link The Website [ https://mustafamhmoud.github.io/WhatsApp/ ]
